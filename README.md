@@ -1,3 +1,3 @@
 # my-projects
 A collection of my personal and academic projects showcasing skills in Python, Web Development, Databases, Data Analytics, Artificial Intelligence, and Problem Solving. This repository highlights practical implementations, innovative solutions, and continuous learning through real-world projects.
-https://docs.google.com/document/d/1x1Lg79-tAbYkqxHipKXneEuwkKtmXC3H/edit?usp=drivesdk&ouid=118267385607117344159&rtpof=true&sd=true
+https://drive.google.com/drive/folders/1WBeep2ppRuyMQhBNOAOzRNKDcpAf2WEy
